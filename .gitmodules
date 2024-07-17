@@ -1,0 +1,5 @@
+[submodule "themes/butterfly"]
+
+path = themes/butterfly
+
+url = git@gitee.com:immyw/hexo-theme-butterfly.git
